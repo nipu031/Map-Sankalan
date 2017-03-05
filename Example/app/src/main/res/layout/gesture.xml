@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/touchlayou1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Draw The Gesture"
+            android:id="@+id/gestureTitle"
+            android:layout_marginTop="55dp"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_height="45dp"
+            android:layout_weight="0.90" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/touchlayout_3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="0.5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Result"
+            android:id="@+id/result"
+            android:layout_marginLeft="140sp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:background="@drawable/divider_shape"
+        android:layout_weight="3">
+
+        <TextView
+            android:id="@+id/gestureStart"
+            android:layout_width="match_parent"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/step2text"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

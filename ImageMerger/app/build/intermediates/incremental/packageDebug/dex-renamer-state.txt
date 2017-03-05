@@ -1,0 +1,7 @@
+#Fri Mar 03 00:14:11 IST 2017
+base.0=C\:\\Users\\Nipu\\AndroidStudioProjects\\ImageMerger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d40f7f6bc166299b877fd1dc8a25282b0d3dbc5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nipu\\AndroidStudioProjects\\ImageMerger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_adab7caf6b2919caf12369aee4b90382fb3e8651\\classes.dex
+base.1=C\:\\Users\\Nipu\\AndroidStudioProjects\\ImageMerger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_adab7caf6b2919caf12369aee4b90382fb3e8651
+file.0=C\:\\Users\\Nipu\\AndroidStudioProjects\\ImageMerger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d40f7f6bc166299b877fd1dc8a25282b0d3dbc5\\classes.dex

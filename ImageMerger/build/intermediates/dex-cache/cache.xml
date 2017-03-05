@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nipu\AndroidStudioProjects\ImageMerger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c4f181a5b6d2d034cf0ca726df9174dd6db72a">
+        <dex dex="C:\Users\Nipu\AndroidStudioProjects\ImageMerger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d40f7f6bc166299b877fd1dc8a25282b0d3dbc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nipu\AndroidStudioProjects\ImageMerger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dec5e5d74f93922dfc86d7af5ae1dddeb078198">
+        <dex dex="C:\Users\Nipu\AndroidStudioProjects\ImageMerger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adab7caf6b2919caf12369aee4b90382fb3e8651\classes.dex" />
+    </item>
+
+</items>

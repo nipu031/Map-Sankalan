@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multifactor</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="lblAcc">Select Authentication Technique</string>
+    <string name="lblSubAcc">Select Grid Size</string>
+    <string name="tapfooter">Touch Here after Completion</string>
+    <string name="button">Submit</string>
+    <string name="step2text">Touch Here To Start</string>
+
+
+    <string-array name="acc_type">
+        <item>Tap Based Authentication</item>
+        <item>Gesture Based Authentication</item>
+        <item>Multi-Factor Authentication</item>
+    </string-array>
+</resources>

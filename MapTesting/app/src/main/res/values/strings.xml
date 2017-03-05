@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MapTesting</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+
+    </string-array>
+</resources>
